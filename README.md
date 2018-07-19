@@ -6,7 +6,7 @@
     - POST   /items           增加一个商品
     - DELETE /items/:id       删除商品
     - PUT    /items/:id       更新数据
-
+    
 2. 实现处理商品条码数组，返回购物清单的api
 清单内容(例样):
 ```js
